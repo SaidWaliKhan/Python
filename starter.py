@@ -7,6 +7,8 @@ print("=" * 45)
 print("   Welcome to Python Fundamentals Playground")
 print("=" * 45)
 
+....
+
 # ---------------------------------
 # TODO 1:
 # Ask the user for:
